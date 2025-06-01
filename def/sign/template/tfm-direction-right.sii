@@ -1,0 +1,19 @@
+SiiNunit
+{
+sign_template : _nameless.1e3.b6ab.82d0 {
+ template_name: "tfm-direction-right"
+ model_name: dlc_blke_498
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 1
+ boards[0]: _nameless.1e1.b485.79c0
+ items: 0
+ dynamic_attributes: 0
+}
+
+sign_template_board_binding : _nameless.1e1.b485.79c0 {
+ area_name: ml2
+ linked_board: sign_board.user_m_00005
+}
+
+}

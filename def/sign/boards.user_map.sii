@@ -1,0 +1,31 @@
+SiiNunit
+{
+sign_board_def : sign_board.user_m_00001 {
+ path: "/def/sign/board/tfm-welcome.sii"
+}
+
+sign_board_def : sign_board.user_m_00002 {
+ path: "/def/sign/board/tfm-slow_bumps.sii"
+}
+
+sign_board_def : sign_board.user_m_00003 {
+ path: "/def/sign/board/tfm-fuel-exit.sii"
+}
+
+sign_board_def : sign_board.user_m_00004 {
+ path: "/def/sign/board/tfm-tfm_friends-only.sii"
+}
+
+sign_board_def : sign_board.user_m_00005 {
+ path: "/def/sign/board/tfm-direction-right.sii"
+}
+
+sign_board_def : sign_board.user_m_00006 {
+ path: "/def/sign/board/tfm-direction-left.sii"
+}
+
+sign_board_def : sign_board.user_m_00007 {
+ path: "/def/sign/board/tfm-direction-straight.sii"
+}
+
+}

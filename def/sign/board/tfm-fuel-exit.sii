@@ -1,0 +1,138 @@
+SiiNunit
+{
+sign_board_template : _nameless.245.8eea.34a0 {
+ board_name: "tfm-fuel-exit"
+ width: &4094cccd
+ height: &402d70a4
+ model_name: ""
+ items: 6
+ items[0]: _nameless.247.ad24.94b0
+ items[1]: _nameless.247.cc41.f6e0
+ items[2]: _nameless.247.ad02.22c0
+ items[3]: _nameless.247.c6ab.bda0
+ items[4]: _nameless.247.c6ab.be60
+ items[5]: _nameless.247.c6ab.cee0
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.247.ad24.94b0 {
+ atlas_path: "/def/sign/atlas/arrow_right_longer_swe.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1385431040
+ area_name: ""
+ area_idx: nil
+ coords_l: &400986ce
+ coords_r: &4047f003
+ coords_t: &4020b1de
+ coords_b: &3ffcc970
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.247.cc41.f6e0 {
+ atlas_path: "/def/sign/atlas/arrow_right_longer_swe.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: true
+ vflip: false
+ image_overridable: false
+ id: 3371302910
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc47b71
+ coords_r: &4020a6ed
+ coords_t: &4020b7cc
+ coords_b: &3ffcec4f
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.247.ad02.22c0 {
+ atlas_path: "/def/sign/atlas/single_line_swe.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3684433918
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ff95b89
+ coords_r: &402cd301
+ coords_t: &4011b0df
+ coords_b: &3edd86f8
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.247.c6ab.bda0 {
+ text: "VTC Park Exit"
+ font_face: "/font/normal.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 3589537790
+ area_name: ""
+ area_idx: nil
+ coords_l: &3dc6fef0
+ coords_r: &3ff8beb5
+ coords_t: &3fed9a6e
+ coords_b: &3edfded8
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.247.c6ab.be60 {
+ text: "VTC Park Entrance"
+ font_face: "/font/normal.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 2899836926
+ area_name: ""
+ area_idx: nil
+ coords_l: &402d15c4
+ coords_r: &40919e93
+ coords_t: &3ffc5f5c
+ coords_b: &3f61f17f
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.247.c6ab.cee0 {
+ text: "TFM and Friends Entrance"
+ font_face: "/font/normal.font"
+ font_size: &3e99999a
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 474218496
+ area_name: ""
+ area_idx: nil
+ coords_l: &402d15c5
+ coords_r: &40919e94
+ coords_t: &3f60e82a
+ coords_b: &3edbb986
+ z_order: 6
+ tag: ""
+}
+
+}

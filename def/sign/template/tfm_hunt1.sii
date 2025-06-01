@@ -1,0 +1,19 @@
+SiiNunit
+{
+sign_template : _nameless.15f.da58.5d40 {
+ template_name: tfm_hunt1
+ model_name: dlc_blke_440
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 1
+ boards[0]: _nameless.15e.ebc2.6740
+ items: 0
+ dynamic_attributes: 0
+}
+
+sign_template_board_binding : _nameless.15e.ebc2.6740 {
+ area_name: ml2
+ linked_board: sign_board.hunt1
+}
+
+}

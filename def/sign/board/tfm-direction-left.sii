@@ -1,0 +1,54 @@
+SiiNunit
+{
+sign_board_template : _nameless.1e4.0c35.1f50 {
+ board_name: "tfm-direction-left"
+ width: &4008f5c3
+ height: &3f333333
+ model_name: ""
+ items: 2
+ items[0]: _nameless.1e4.0ff0.aed0
+ items[1]: _nameless.1e3.a6f6.9e50
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1e4.0ff0.aed0 {
+ text: "VTC Park"
+ font_face: "/font/sign/tr_sr.font"
+ font_size: &3ec28f5c
+ text_halign: center
+ text_valign: center
+ font_color: 16777215
+ font_opacity: 1
+ line_spacing: &bd4ccccd
+ letter_spacing: &bca3d70a
+ id: 3305111550
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ef18268
+ coords_r: &4004a101
+ coords_t: &3f333333
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1e3.a6f6.9e50 {
+ atlas_path: "/def/sign/atlas/arrow_small_right_tr.sii"
+ image_idx: 0
+ color: 16777215
+ opacity: 1
+ hflip: true
+ vflip: false
+ image_overridable: false
+ id: 463732736
+ area_name: ""
+ area_idx: nil
+ coords_l: &3da2b4b0
+ coords_r: &3eed3a40
+ coords_t: &3f0ca864
+ coords_b: &3e298768
+ z_order: 2
+ tag: ""
+}
+
+}

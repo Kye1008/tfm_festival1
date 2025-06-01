@@ -1,0 +1,34 @@
+SiiNunit
+{
+sign_board_template : _nameless.19e.477b.67d0 {
+ board_name: "tfm bay 1"
+ width: &4051eb85
+ height: &3f9c28f6
+ model_name: ""
+ items: 1
+ items[0]: _nameless.19e.477b.4570
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.19e.477b.4570 {
+ text: "STOP HERE<br>BAY 1"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &bdcccccd
+ letter_spacing: 0
+ id: 203816960
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &4051eb85
+ coords_t: &3f9c28f6
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+}

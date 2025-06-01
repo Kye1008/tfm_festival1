@@ -1,0 +1,224 @@
+SiiNunit
+{
+sign_board_template : _nameless.1ca.a2d3.eef0 {
+ board_name: "tfm cld"
+ width: &407f5c29
+ height: &40a47ae1
+ model_name: ""
+ items: 11
+ items[0]: _nameless.1ca.a2d3.f130
+ items[1]: _nameless.1ca.a2d3.ea70
+ items[2]: _nameless.1ca.bdf0.f570
+ items[3]: _nameless.1ca.a2d3.e710
+ items[4]: _nameless.1ca.a2d3.ed40
+ items[5]: _nameless.1ca.bdf0.f7b0
+ items[6]: _nameless.1ca.bdd3.ca10
+ items[7]: _nameless.1ca.bdf0.f870
+ items[8]: _nameless.1ca.bdf0.f9f0
+ items[9]: _nameless.1ca.bdd3.b390
+ items[10]: _nameless.1ca.bdd3.d2d0
+ dynamic_attributes: 0
+}
+
+sign_template_frame : _nameless.1ca.a2d3.f130 {
+ frame_path: "/def/sign/frame/frame_red_pt.sii"
+ color: 16777215
+ opacity: 1
+ id: 2818965503
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &4060bb9a
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ca.a2d3.ea70 {
+ frame_path: "/def/sign/frame/trans_rounded_bg.sii"
+ color: 16777215
+ opacity: 1
+ id: 3249537022
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &40603e89
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.1ca.bdf0.f570 {
+ text: "ROAD<br>CLOSED"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f333333
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 1908146175
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &4060bb9a
+ z_order: 3
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ca.a2d3.e710 {
+ frame_path: "/def/sign/frame/frame_yellow_pt.sii"
+ color: 16777215
+ opacity: 1
+ id: 1936982015
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &4060fa24
+ coords_b: 0
+ z_order: 4
+ tag: ""
+}
+
+sign_template_frame : _nameless.1ca.a2d3.ed40 {
+ frame_path: "/def/sign/frame/trans_rounded_bg.sii"
+ color: 0
+ opacity: 1
+ id: 643432448
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &405f82ee
+ coords_b: 0
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.1ca.bdf0.f7b0 {
+ text: "TFM8 MAJOR EVENT"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 796262400
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &405c9486
+ coords_b: &40417735
+ z_order: 6
+ tag: ""
+}
+
+sign_template_image : _nameless.1ca.bdd3.ca10 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1287127040
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &404a66b6
+ coords_b: &40383a28
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.1ca.bdf0.f870 {
+ text: "A14, M11 CLOSED<br>A12 PARTIAL CLOSURE"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 2875064318
+ area_name: ""
+ area_idx: nil
+ coords_l: &34000000
+ coords_r: &407f5c29
+ coords_t: &4036e698
+ coords_b: &4003b9a6
+ z_order: 8
+ tag: ""
+}
+
+sign_template_text : _nameless.1ca.bdf0.f9f0 {
+ text: DIVERSION
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 2932998142
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c28
+ coords_t: &3fe407d1
+ coords_b: &3f7b5bd8
+ z_order: 9
+ tag: ""
+}
+
+sign_template_image : _nameless.1ca.bdd3.b390 {
+ atlas_path: "/def/sign/atlas/arrow_short_right_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: true
+ vflip: false
+ image_overridable: false
+ id: 2827091967
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f8c45ce
+ coords_r: &3fd69550
+ coords_t: &3f4b3383
+ coords_b: &3ea4393a
+ z_order: 10
+ tag: ""
+}
+
+sign_template_image : _nameless.1ca.bdd3.d2d0 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 632029184
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fd0e2df
+ coords_r: &4035f48c
+ coords_t: &3f4c68bf
+ coords_b: &3ea1cec2
+ z_order: 11
+ tag: ""
+}
+
+}

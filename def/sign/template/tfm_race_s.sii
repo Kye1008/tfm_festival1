@@ -1,0 +1,25 @@
+SiiNunit
+{
+sign_template : _nameless.244.1069.e130 {
+ template_name: tfm_race_s
+ model_name: de_54
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 2
+ boards[0]: _nameless.244.2902.bfd0
+ boards[1]: _nameless.244.2902.bb80
+ items: 0
+ dynamic_attributes: 0
+}
+
+sign_template_board_binding : _nameless.244.2902.bfd0 {
+ area_name: ml3
+ linked_board: sign_board.races2
+}
+
+sign_template_board_binding : _nameless.244.2902.bb80 {
+ area_name: ml2
+ linked_board: sign_board.races
+}
+
+}

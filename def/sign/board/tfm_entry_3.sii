@@ -1,0 +1,96 @@
+SiiNunit
+{
+sign_board_template : _nameless.28d.c85e.a680 {
+ board_name: "tfm entry 3"
+ width: &404d70a4
+ height: &400d70a4
+ model_name: ""
+ items: 4
+ items[0]: _nameless.28e.9731.99f0
+ items[1]: _nameless.28e.c03e.fca0
+ items[2]: _nameless.28e.c03f.0560
+ items[3]: _nameless.28e.9731.b130
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.28e.9731.99f0 {
+ text: "Stage<br>Drag Strip<br>Trameri Challenge"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3eb33333
+ text_halign: left
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: -0
+ letter_spacing: 0
+ id: 3260678142
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f450337
+ coords_r: &404d70a4
+ coords_t: &3f9d57cc
+ coords_b: &3dcb5240
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.28e.c03e.fca0 {
+ atlas_path: "/def/sign/atlas/arrow_small_right_tr.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: true
+ vflip: false
+ image_overridable: false
+ id: 1044119552
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e2c229a
+ coords_r: &3f153280
+ coords_t: &3f629082
+ coords_b: &3eea7777
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.28e.c03f.0560 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 16777215
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1112670208
+ area_name: ""
+ area_idx: nil
+ coords_l: &3cf83680
+ coords_r: &404b851f
+ coords_t: &3fad7dec
+ coords_b: &3fa0b11f
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.28e.9731.b130 {
+ text: "Welcome To<br>TFM8"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ee66666
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 927203328
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &404ca085
+ coords_t: &400d70a4
+ coords_b: &3fa5b547
+ z_order: 4
+ tag: ""
+}
+
+}

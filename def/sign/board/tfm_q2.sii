@@ -1,0 +1,72 @@
+SiiNunit
+{
+sign_board_template : _nameless.222.1967.be60 {
+ board_name: "tfm q2"
+ width: &404d70a4
+ height: &400d70a4
+ model_name: ""
+ items: 3
+ items[0]: _nameless.222.198e.7110
+ items[1]: _nameless.222.198e.9c90
+ items[2]: _nameless.222.1967.d330
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.222.198e.7110 {
+ text: "''I've dropped my fan in my sausage casserole''"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: -0
+ letter_spacing: &bc75c28f
+ id: 3260678142
+ area_name: ""
+ area_idx: nil
+ coords_l: &3d9f2f90
+ coords_r: &4047d350
+ coords_t: &3ff7eb13
+ coords_b: &3f283643
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.222.198e.9c90 {
+ text: "- Miniii"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ee66666
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: -0
+ letter_spacing: &bc75c28f
+ id: 1915092991
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fdc84cd
+ coords_r: &4044f0cb
+ coords_t: &3ee86732
+ coords_b: &3e0f6341
+ z_order: 2
+ tag: ""
+}
+
+sign_template_frame : _nameless.222.1967.d330 {
+ frame_path: "/def/sign/frame/green_rounded_bg.sii"
+ color: 16777215
+ opacity: 1
+ id: 810156032
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &404d70a4
+ coords_t: &400d70a4
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+}

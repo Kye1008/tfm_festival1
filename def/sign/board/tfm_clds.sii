@@ -1,0 +1,204 @@
+SiiNunit
+{
+sign_board_template : _nameless.222.0fc2.f980 {
+ board_name: "tfm clds"
+ width: &407f5c29
+ height: &40a47ae1
+ model_name: ""
+ items: 10
+ items[0]: _nameless.222.0fc2.fce0
+ items[1]: _nameless.222.0fc2.faa0
+ items[2]: _nameless.222.0f72.fa50
+ items[3]: _nameless.222.0fc2.eff0
+ items[4]: _nameless.222.0fc2.f860
+ items[5]: _nameless.222.0f72.f5d0
+ items[6]: _nameless.221.ff2e.fd10
+ items[7]: _nameless.222.0f73.0f50
+ items[8]: _nameless.222.0f72.f690
+ items[9]: _nameless.221.ff2e.f4f0
+ dynamic_attributes: 0
+}
+
+sign_template_frame : _nameless.222.0fc2.fce0 {
+ frame_path: "/def/sign/frame/frame_red_pt.sii"
+ color: 16777215
+ opacity: 1
+ id: 2818965503
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &4060bb9a
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.222.0fc2.faa0 {
+ frame_path: "/def/sign/frame/trans_rounded_bg.sii"
+ color: 16777215
+ opacity: 1
+ id: 3249537022
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &40603e89
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.222.0f72.fa50 {
+ text: "ROAD<br>CLOSED"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f333333
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 1908146175
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &4060bb9a
+ z_order: 3
+ tag: ""
+}
+
+sign_template_frame : _nameless.222.0fc2.eff0 {
+ frame_path: "/def/sign/frame/frame_yellow_pt.sii"
+ color: 16777215
+ opacity: 1
+ id: 1936982015
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &4060fa24
+ coords_b: 0
+ z_order: 4
+ tag: ""
+}
+
+sign_template_frame : _nameless.222.0fc2.f860 {
+ frame_path: "/def/sign/frame/trans_rounded_bg.sii"
+ color: 0
+ opacity: 1
+ id: 643432448
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &405f82ee
+ coords_b: 0
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.222.0f72.f5d0 {
+ text: "TFM8 MAJOR EVENT"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 796262400
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &405c9486
+ coords_b: &40417735
+ z_order: 6
+ tag: ""
+}
+
+sign_template_image : _nameless.221.ff2e.fd10 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1287127040
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &404a66b6
+ coords_b: &40383a28
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.222.0f73.0f50 {
+ text: "A14, M11 CLOSED<br>A12 PARTIAL CLOSURE"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 2875064318
+ area_name: ""
+ area_idx: nil
+ coords_l: &34000000
+ coords_r: &407f5c29
+ coords_t: &4036e698
+ coords_b: &4003b9a6
+ z_order: 8
+ tag: ""
+}
+
+sign_template_text : _nameless.222.0f72.f690 {
+ text: DIVERSION
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 2932998142
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fa44dde
+ coords_r: &4071448e
+ coords_t: &3fa96794
+ coords_b: &3f061b5d
+ z_order: 9
+ tag: ""
+}
+
+sign_template_image : _nameless.221.ff2e.f4f0 {
+ atlas_path: "/def/sign/atlas/arrow_med_up_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 3370647550
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0c55fc
+ coords_r: &3f66f63a
+ coords_t: &3fae4a43
+ coords_b: &3ee909c4
+ z_order: 10
+ tag: ""
+}
+
+}

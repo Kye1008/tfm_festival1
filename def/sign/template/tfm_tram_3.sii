@@ -1,0 +1,19 @@
+SiiNunit
+{
+sign_template : _nameless.249.2f70.4c70 {
+ template_name: tfm_tram_3
+ model_name: dlc_blke_269
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 1
+ boards[0]: _nameless.249.2da3.2de0
+ items: 0
+ dynamic_attributes: 0
+}
+
+sign_template_board_binding : _nameless.249.2da3.2de0 {
+ area_name: ml2
+ linked_board: sign_board.tram3
+}
+
+}

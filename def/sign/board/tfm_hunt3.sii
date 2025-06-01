@@ -1,0 +1,34 @@
+SiiNunit
+{
+sign_board_template : _nameless.22e.a738.3e30 {
+ board_name: "tfm hunt3"
+ width: &402e147b
+ height: &3f9c28f6
+ model_name: ""
+ items: 1
+ items[0]: _nameless.22f.e3e6.ae50
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.22f.e3e6.ae50 {
+ text: YMA4J
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 563216384
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &3fecf6d0
+ coords_t: &3f9c28f6
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+}

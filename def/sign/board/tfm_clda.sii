@@ -1,0 +1,162 @@
+SiiNunit
+{
+sign_board_template : _nameless.1bc.9fb1.ed30 {
+ board_name: "tfm clda"
+ width: &407f5c29
+ height: &40a47ae1
+ model_name: ""
+ items: 8
+ items[0]: _nameless.1bc.9fb1.f7e0
+ items[1]: _nameless.1bc.9fb1.e9d0
+ items[2]: _nameless.1bc.9fb2.8130
+ items[3]: _nameless.1bc.9fb1.eaf0
+ items[4]: _nameless.1bc.9fb1.eca0
+ items[5]: _nameless.1bc.9fb2.73b0
+ items[6]: _nameless.1bc.9452.8ed0
+ items[7]: _nameless.1bc.9fb2.70b0
+ dynamic_attributes: 0
+}
+
+sign_template_frame : _nameless.1bc.9fb1.f7e0 {
+ frame_path: "/def/sign/frame/frame_red_pt.sii"
+ color: 16777215
+ opacity: 1
+ id: 2818965503
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &4060bb9a
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.1bc.9fb1.e9d0 {
+ frame_path: "/def/sign/frame/trans_rounded_bg.sii"
+ color: 16777215
+ opacity: 1
+ id: 3249537022
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &40603e89
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.1bc.9fb2.8130 {
+ text: "ROAD AHEAD<br>CLOSED"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f333333
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 1908146175
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &4060bb9a
+ z_order: 3
+ tag: ""
+}
+
+sign_template_frame : _nameless.1bc.9fb1.eaf0 {
+ frame_path: "/def/sign/frame/frame_yellow_pt.sii"
+ color: 16777215
+ opacity: 1
+ id: 1936982015
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &4060fa24
+ coords_b: 0
+ z_order: 4
+ tag: ""
+}
+
+sign_template_frame : _nameless.1bc.9fb1.eca0 {
+ frame_path: "/def/sign/frame/trans_rounded_bg.sii"
+ color: 0
+ opacity: 1
+ id: 643432448
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &405f82ee
+ coords_b: 0
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.1bc.9fb2.73b0 {
+ text: "TruckersFM 8<br>MAJOR EVENT"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 796262400
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &405c9486
+ coords_b: &40242716
+ z_order: 6
+ tag: ""
+}
+
+sign_template_image : _nameless.1bc.9452.8ed0 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1287127040
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40285aad
+ coords_b: &40162e1f
+ z_order: 7
+ tag: ""
+}
+
+sign_template_text : _nameless.1bc.9fb2.70b0 {
+ text: "A14, M11 CLOSED<br>A12 PARTIAL CLOSURE"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 2875064318
+ area_name: ""
+ area_idx: nil
+ coords_l: &34000000
+ coords_r: &407f5c29
+ coords_t: &401c55fc
+ coords_b: 0
+ z_order: 8
+ tag: ""
+}
+
+}

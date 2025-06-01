@@ -1,0 +1,170 @@
+SiiNunit
+{
+sign_board_template : _nameless.29a.1b0a.7a60 {
+ board_name: "tfm divr"
+ width: &407f5c29
+ height: &40a47ae1
+ model_name: ""
+ items: 8
+ items[0]: _nameless.29a.1b0a.7700
+ items[1]: _nameless.29a.1b0a.7af0
+ items[2]: _nameless.29a.0df4.2a60
+ items[3]: _nameless.29a.1b0f.32e0
+ items[4]: _nameless.29a.0df4.37e0
+ items[5]: _nameless.29a.1af6.e090
+ items[6]: _nameless.29a.1b0f.baf0
+ items[7]: _nameless.29a.1b0f.bcd0
+ dynamic_attributes: 0
+}
+
+sign_template_frame : _nameless.29a.1b0a.7700 {
+ frame_path: "/def/sign/frame/frame_yellow_pt.sii"
+ color: 16777215
+ opacity: 1
+ id: 1936982015
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_frame : _nameless.29a.1b0a.7af0 {
+ frame_path: "/def/sign/frame/trans_rounded_bg.sii"
+ color: 0
+ opacity: 1
+ id: 643432448
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.29a.0df4.2a60 {
+ text: "TruckersFM 8<br>MAJOR EVENT"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 796262400
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &40a47ae1
+ coords_b: &4087d634
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.29a.1b0f.32e0 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1287127040
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c29
+ coords_t: &408c6303
+ coords_b: &40834cbc
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.29a.0df4.37e0 {
+ text: "A14, M11 CLOSED<br>A12 PARTIAL CLOSURE"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f000000
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 2875064318
+ area_name: ""
+ area_idx: nil
+ coords_l: &34000000
+ coords_r: &407f5c29
+ coords_t: &4082f576
+ coords_b: &40133980
+ z_order: 5
+ tag: ""
+}
+
+sign_template_text : _nameless.29a.1af6.e090 {
+ text: DIVERSION
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: 0
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 2932998142
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &407f5c28
+ coords_t: &4000bc39
+ coords_b: &3f9b1e8e
+ z_order: 6
+ tag: ""
+}
+
+sign_template_image : _nameless.29a.1b0f.baf0 {
+ atlas_path: "/def/sign/atlas/arrow_short_right_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2827091967
+ area_name: ""
+ area_idx: nil
+ coords_l: &4014310c
+ coords_r: &403958cd
+ coords_t: &3f830a64
+ coords_b: &3f0cfde1
+ z_order: 7
+ tag: ""
+}
+
+sign_template_image : _nameless.29a.1b0f.bcd0 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 0
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 632029184
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f976932
+ coords_r: &401937b6
+ coords_t: &3f83a502
+ coords_b: &3f0bc8a5
+ z_order: 8
+ tag: ""
+}
+
+}

@@ -1,0 +1,76 @@
+SiiNunit
+{
+sign_board_template : _nameless.249.0f28.8a30 {
+ board_name: "tfm race"
+ width: &404d70a4
+ height: &400d70a4
+ model_name: ""
+ items: 3
+ items[0]: _nameless.248.2d89.b930
+ items[1]: _nameless.248.3973.50d0
+ items[2]: _nameless.248.2d7d.a690
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.248.2d89.b930 {
+ text: "Race Track"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: -0
+ letter_spacing: &bc75c28f
+ id: 3260678142
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &404d70a4
+ coords_t: &3fab171b
+ coords_b: &3d68e530
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.248.3973.50d0 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 16777215
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1112670208
+ area_name: ""
+ area_idx: nil
+ coords_l: &3cf83680
+ coords_r: &404b851f
+ coords_t: &3fabd460
+ coords_b: &3f9f0793
+ z_order: 2
+ tag: ""
+}
+
+sign_template_text : _nameless.248.2d7d.a690 {
+ text: "TruckersFM<br>8"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ee66666
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 927203328
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &404ca085
+ coords_t: &400d70a4
+ coords_b: &3fa5b547
+ z_order: 3
+ tag: ""
+}
+
+}

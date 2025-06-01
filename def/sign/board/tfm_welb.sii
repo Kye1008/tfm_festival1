@@ -1,0 +1,34 @@
+SiiNunit
+{
+sign_board_template : _nameless.237.31dd.48d0 {
+ board_name: "tfm welb"
+ width: &415ccccd
+ height: &40466666
+ model_name: ""
+ items: 1
+ items[0]: _nameless.237.3223.0d50
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.237.3223.0d50 {
+ text: "Welcome To<br>TruckersFM 8"
+ font_face: "/font/sign/de_n.font"
+ font_size: &3fb33333
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 4240310270
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &415ccccc
+ coords_t: &40466666
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+}

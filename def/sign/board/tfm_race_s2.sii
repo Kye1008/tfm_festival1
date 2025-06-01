@@ -1,0 +1,34 @@
+SiiNunit
+{
+sign_board_template : _nameless.243.0ffb.3200 {
+ board_name: "tfm race s2"
+ width: &4059999a
+ height: 3
+ model_name: ""
+ items: 1
+ items[0]: _nameless.244.0e8b.0080
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.244.0e8b.0080 {
+ text: "OBEY ALL INSTRUCTIONS<br>WAIT UNTIL CALLED"
+ font_face: "/font/sign/de_n.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &3e4ccccd
+ letter_spacing: 0
+ id: 3073114110
+ area_name: ""
+ area_idx: nil
+ coords_l: &34800000
+ coords_r: &4059999a
+ coords_t: 3
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+}

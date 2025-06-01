@@ -1,0 +1,25 @@
+
+city_data : city.tfm
+{
+	city_name: "TruckersFM 9"
+	city_name_localized: "TruckersFM 9"
+	country: uk
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: -44
+	map_x_offsets[]: -40
+	map_x_offsets[]: -40
+	map_x_offsets[]: -41
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: -32
+	map_y_offsets[]: -39
+	map_y_offsets[]: -27
+	map_y_offsets[]: -26
+}

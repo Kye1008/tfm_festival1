@@ -1,0 +1,272 @@
+SiiNunit
+{
+sign_template_def : sign_templ.1439 {
+ path: "/def/sign/template/tfm_bay_1.sii"
+}
+sign_template_def : sign_templ.1440 {
+ path: "/def/sign/template/tfm_bay_2.sii"
+}
+sign_template_def : sign_templ.1441 {
+ path: "/def/sign/template/tfm_bay_3.sii"
+}
+sign_template_def : sign_templ.1442 {
+ path: "/def/sign/template/tfm_exit_1.sii"
+}
+
+sign_template_def : sign_templ.1443 {
+ path: "/def/sign/template/tfm_exit_2.sii"
+}
+
+sign_template_def : sign_templ.1445 {
+ path: "/def/sign/template/tfm_entry_3.sii"
+}
+
+sign_template_def : sign_templ.1446 {
+ path: "/def/sign/template/tfm_exit.sii"
+}
+
+sign_template_def : sign_templ.1447 {
+ path: "/def/sign/template/tfm_tram_1.sii"
+}
+
+sign_template_def : sign_templ.1448 {
+ path: "/def/sign/template/tfm_one_way.sii"
+}
+
+sign_template_def : sign_templ.1449 {
+ path: "/def/sign/template/tfm_pnd.sii"
+}
+
+sign_template_def : sign_templ.1450 {
+ path: "/def/sign/template/tfm_drag_1.sii"
+}
+
+sign_template_def : sign_templ.1451 {
+ path: "/def/sign/template/tfm_drag_3.sii"
+}
+
+sign_template_def : sign_templ.1452 {
+ path: "/def/sign/template/tfm_drag_2.sii"
+}
+
+sign_template_def : sign_templ.1453 {
+ path: "/def/sign/template/tfm_tramlane.sii"
+}
+
+sign_template_def : sign_templ.1454 {
+ path: "/def/sign/template/tfm_bothl.sii"
+}
+
+sign_template_def : sign_templ.1455 {
+ path: "/def/sign/template/tfm_wait.sii"
+}
+
+sign_template_def : sign_templ.1456 {
+ path: "/def/sign/template/tfm_six.sii"
+}
+
+sign_template_def : sign_templ.1457 {
+ path: "/def/sign/template/tfm_tram.sii"
+}
+
+sign_template_def : sign_templ.1458 {
+ path: "/def/sign/template/tfm_drag.sii"
+}
+
+sign_template_def : sign_templ.1459 {
+ path: "/def/sign/template/tfm_race.sii"
+}
+
+sign_template_def : sign_templ.1460 {
+ path: "/def/sign/template/tfm_tram_3.sii"
+}
+
+sign_template_def : sign_templ.1461 {
+ path: "/def/sign/template/tfm_cld.sii"
+}
+
+sign_template_def : sign_templ.1462 {
+ path: "/def/sign/template/tfm_cldr.sii"
+}
+
+sign_template_def : sign_templ.1463 {
+ path: "/def/sign/template/tfm_divnote.sii"
+}
+
+sign_template_def : sign_templ.1464 {
+ path: "/def/sign/template/tfm_clds.sii"
+}
+
+sign_template_def : sign_templ.1465 {
+ path: "/def/sign/template/tfm_race_s.sii"
+}
+
+sign_template_def : sign_templ.1466 {
+ path: "/def/sign/template/tfm_clda.sii"
+}
+
+sign_template_def : sign_templ.1467 {
+ path: "/def/sign/template/tfm_sixr.sii"
+}
+
+sign_template_def : sign_templ.1468 {
+ path: "/def/sign/template/tfm_divl.sii"
+}
+
+sign_template_def : sign_templ.1469 {
+ path: "/def/sign/template/tfm_divr.sii"
+}
+
+sign_template_def : sign_templ.1470 {
+ path: "/def/sign/template/tfm_divs.sii"
+}
+
+sign_template_def : sign_templ.1471 {
+ path: "/def/sign/template/tfm_raced.sii"
+}
+
+sign_template_def : sign_templ.1472 {
+ path: "/def/sign/template/tfm_inst.sii"
+}
+
+sign_template_def : sign_templ.1473 {
+ path: "/def/sign/template/tfm_q.sii"
+}
+
+sign_template_def : sign_templ.1474 {
+ path: "/def/sign/template/tfm_q3.sii"
+}
+
+sign_template_def : sign_templ.1475 {
+ path: "/def/sign/template/tfm_q4.sii"
+}
+
+sign_template_def : sign_templ.1476 {
+ path: "/def/sign/template/tfm_q5.sii"
+}
+
+sign_template_def : sign_templ.1477 {
+ path: "/def/sign/template/tfm_q6.sii"
+}
+
+sign_template_def : sign_templ.1478 {
+ path: "/def/sign/template/tfm_q7.sii"
+}
+
+sign_template_def : sign_templ.1479 {
+ path: "/def/sign/template/tfm_q2.sii"
+}
+
+sign_template_def : sign_templ.1480 {
+ path: "/def/sign/template/tfm_wel.sii"
+}
+
+sign_template_def : sign_templ.1481 {
+ path: "/def/sign/template/tfm_welb.sii"
+}
+
+sign_template_def : sign_templ.1482 {
+ path: "/def/sign/template/tfm_entry_1.sii"
+}
+
+sign_template_def : sign_templ.1483 {
+ path: "/def/sign/template/tfm_entry_2.sii"
+}
+
+sign_template_def : sign_templ.1484 {
+ path: "/def/sign/template/tfm_entry_4.sii"
+}
+
+sign_template_def : sign_templ.1485 {
+ path: "/def/sign/template/tfm_entry_5.sii"
+}
+
+sign_template_def : sign_templ.1486 {
+ path: "/def/sign/template/mc.sii"
+}
+
+sign_template_def : sign_templ.1487 {
+ path: "/def/sign/template/tfm_drag_4.sii"
+}
+
+sign_template_def : sign_templ.1488 {
+ path: "/def/sign/template/tfm_drag_5.sii"
+}
+
+sign_template_def : sign_templ.1489 {
+ path: "/def/sign/template/tfm_photo.sii"
+}
+
+sign_template_def : sign_templ.1490 {
+ path: "/def/sign/template/tfm_race_e.sii"
+}
+
+sign_template_def : sign_templ.1491 {
+ path: "/def/sign/template/tfm_exit_4.sii"
+}
+
+sign_template_def : sign_templ.1492 {
+ path: "/def/sign/template/tfm_slow.sii"
+}
+
+sign_template_def : sign_templ.1493 {
+ path: "/def/sign/template/tfm_ramp.sii"
+}
+
+sign_template_def : sign_templ.1494 {
+ path: "/def/sign/template/tfm_hunt1.sii"
+}
+
+sign_template_def : sign_templ.1495 {
+ path: "/def/sign/template/tfm_hunt2.sii"
+}
+
+sign_template_def : sign_templ.1496 {
+ path: "/def/sign/template/tfm_hunt3.sii"
+}
+
+sign_template_def : sign_templ.1497 {
+ path: "/def/sign/template/tfm_hunt4.sii"
+}
+
+sign_template_def : sign_templ.1498 {
+ path: "/def/sign/template/tfm_hunt5.sii"
+}
+
+sign_template_def : sign_templ.1499 {
+ path: "/def/sign/template/tfm_hunt6.sii"
+}
+
+sign_template_def : sign_templ.1500 {
+ path: "/def/sign/template/tfm_exit_5.sii"
+}
+
+sign_template_def : sign_templ.user_m_00001 {
+ path: "/def/sign/template/tfm-welcome.sii"
+}
+
+sign_template_def : sign_templ.user_m_00002 {
+ path: "/def/sign/template/tfm-speed_bumps.sii"
+}
+
+sign_template_def : sign_templ.user_m_00003 {
+ path: "/def/sign/template/tfm-fuel-exit.sii"
+}
+
+sign_template_def : sign_templ.user_m_00004 {
+ path: "/def/sign/template/tfm-tfm_friends-only.sii"
+}
+
+sign_template_def : sign_templ.user_m_00005 {
+ path: "/def/sign/template/tfm-direction-right.sii"
+}
+
+sign_template_def : sign_templ.user_m_00006 {
+ path: "/def/sign/template/tfm-direction-left.sii"
+}
+
+sign_template_def : sign_templ.user_m_00007 {
+ path: "/def/sign/template/tfm-direction-straight.sii"
+}
+
+}

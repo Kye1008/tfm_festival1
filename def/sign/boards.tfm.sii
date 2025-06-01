@@ -1,0 +1,257 @@
+SiiNunit
+{
+sign_board_def : sign_board.bay1 {
+ path: "/def/sign/board/tfm_bay_1.sii"
+}
+sign_board_def : sign_board.bay2 {
+ path: "/def/sign/board/tfm_bay_2.sii"
+}
+sign_board_def : sign_board.bay3 {
+ path: "/def/sign/board/tfm_bay_3.sii"
+}
+
+sign_board_def : sign_board.exit1 {
+ path: "/def/sign/board/tfm_exit_1.sii"
+}
+
+sign_board_def : sign_board.exit2 {
+ path: "/def/sign/board/tfm_exit_2.sii"
+}
+
+sign_board_def : sign_board.entry2 {
+ path: "/def/sign/board/tfm_entry_2.sii"
+}
+
+sign_board_def : sign_board.entry3 {
+ path: "/def/sign/board/tfm_entry_3.sii"
+}
+
+sign_board_def : sign_board.exit {
+ path: "/def/sign/board/tfm_exit.sii"
+}
+
+sign_board_def : sign_board.tram1 {
+ path: "/def/sign/board/tfm_tram_1.sii"
+}
+
+sign_board_def : sign_board.oneway {
+ path: "/def/sign/board/tfm_one_way.sii"
+}
+
+sign_board_def : sign_board.pnd {
+ path: "/def/sign/board/tfm_pnd.sii"
+}
+
+sign_board_def : sign_board.drag1 {
+ path: "/def/sign/board/tfm_drag_1.sii"
+}
+
+sign_board_def : sign_board.drag3 {
+ path: "/def/sign/board/tfm_drag_3.sii"
+}
+
+sign_board_def : sign_board.drag2 {
+ path: "/def/sign/board/tfm_drag_2.sii"
+}
+
+sign_board_def : sign_board.lanes {
+ path: "/def/sign/board/tfm_lanes.sii"
+}
+
+sign_board_def : sign_board.tramlane {
+ path: "/def/sign/board/tfm_tramlane.sii"
+}
+
+sign_board_def : sign_board.traml2 {
+ path: "/def/sign/board/tfm_traml2.sii"
+}
+
+sign_board_def : sign_board.bothl {
+ path: "/def/sign/board/tfm_bothl.sii"
+}
+
+sign_board_def : sign_board.wait {
+ path: "/def/sign/board/tfm_wait.sii"
+}
+
+sign_board_def : sign_board.six {
+ path: "/def/sign/board/tfm_six.sii"
+}
+
+sign_board_def : sign_board.drag {
+ path: "/def/sign/board/tfm_drag.sii"
+}
+
+sign_board_def : sign_board.race {
+ path: "/def/sign/board/tfm_race.sii"
+}
+
+sign_board_def : sign_board.tram3 {
+ path: "/def/sign/board/tfm_tram_3.sii"
+}
+
+sign_board_def : sign_board.tram {
+ path: "/def/sign/board/tfm_tram.sii"
+}
+
+sign_board_def : sign_board.cld {
+ path: "/def/sign/board/tfm_cld.sii"
+}
+
+sign_board_def : sign_board.cldr {
+ path: "/def/sign/board/tfm_cldr.sii"
+}
+
+sign_board_def : sign_board.divnote {
+ path: "/def/sign/board/tfm_divnote.sii"
+}
+
+sign_board_def : sign_board.clds {
+ path: "/def/sign/board/tfm_clds.sii"
+}
+
+sign_board_def : sign_board.races {
+ path: "/def/sign/board/tfm_race_s.sii"
+}
+
+sign_board_def : sign_board.races2 {
+ path: "/def/sign/board/tfm_race_s2.sii"
+}
+
+sign_board_def : sign_board.clda {
+ path: "/def/sign/board/tfm_clda.sii"
+}
+
+sign_board_def : sign_board.sixr {
+ path: "/def/sign/board/tfm_sixr.sii"
+}
+
+sign_board_def : sign_board.divl {
+ path: "/def/sign/board/tfm_divl.sii"
+}
+
+sign_board_def : sign_board.divr {
+ path: "/def/sign/board/tfm_divr.sii"
+}
+
+sign_board_def : sign_board.divs {
+ path: "/def/sign/board/tfm_divs.sii"
+}
+
+sign_board_def : sign_board.raced {
+ path: "/def/sign/board/tfm_raced.sii"
+}
+
+sign_board_def : sign_board.inst {
+ path: "/def/sign/board/tfm_inst.sii"
+}
+
+sign_board_def : sign_board.q1 {
+ path: "/def/sign/board/tfm_q1.sii"
+}
+
+sign_board_def : sign_board.q2 {
+ path: "/def/sign/board/tfm_q2.sii"
+}
+
+sign_board_def : sign_board.q3 {
+ path: "/def/sign/board/tfm_q3.sii"
+}
+
+sign_board_def : sign_board.q4 {
+ path: "/def/sign/board/tfm_q4.sii"
+}
+
+sign_board_def : sign_board.q5 {
+ path: "/def/sign/board/tfm_q5.sii"
+}
+
+sign_board_def : sign_board.q6 {
+ path: "/def/sign/board/tfm_q6.sii"
+}
+
+sign_board_def : sign_board.q7 {
+ path: "/def/sign/board/tfm_q7.sii"
+}
+
+sign_board_def : sign_board.wel {
+ path: "/def/sign/board/tfm_wel.sii"
+}
+
+sign_board_def : sign_board.welb {
+ path: "/def/sign/board/tfm_welb.sii"
+}
+
+sign_board_def : sign_board.entry1 {
+ path: "/def/sign/board/tfm_entry_1.sii"
+}
+
+sign_board_def : sign_board.entry5 {
+ path: "/def/sign/board/tfm_entry_4.sii"
+}
+
+sign_board_def : sign_board.entry4 {
+ path: "/def/sign/board/tfm_entry_5.sii"
+}
+
+sign_board_def : sign_board.mc {
+ path: "/def/sign/board/mc.sii"
+}
+
+sign_board_def : sign_board.drag4 {
+ path: "/def/sign/board/tfm_drag_4.sii"
+}
+
+sign_board_def : sign_board.drag5 {
+ path: "/def/sign/board/tfm_drag_5.sii"
+}
+
+sign_board_def : sign_board.photo {
+ path: "/def/sign/board/tfm_photo.sii"
+}
+
+sign_board_def : sign_board.racee {
+ path: "/def/sign/board/tfm_race_e.sii"
+}
+
+sign_board_def : sign_board.exit4 {
+ path: "/def/sign/board/tfm_exit_4.sii"
+}
+
+sign_board_def : sign_board.slow {
+ path: "/def/sign/board/tfm_slow.sii"
+}
+
+sign_board_def : sign_board.ramp {
+ path: "/def/sign/board/tfm_ramp.sii"
+}
+
+sign_board_def : sign_board.hunt1 {
+ path: "/def/sign/board/tfm_hunt1.sii"
+}
+
+sign_board_def : sign_board.hunt2 {
+ path: "/def/sign/board/tfm_hunt2.sii"
+}
+
+sign_board_def : sign_board.hunt3 {
+ path: "/def/sign/board/tfm_hunt3.sii"
+}
+
+sign_board_def : sign_board.hunt4 {
+ path: "/def/sign/board/tfm_hunt4.sii"
+}
+
+sign_board_def : sign_board.hunt5 {
+ path: "/def/sign/board/tfm_hunt5.sii"
+}
+
+sign_board_def : sign_board.hunt6 {
+ path: "/def/sign/board/tfm_hunt6.sii"
+}
+
+sign_board_def : sign_board.exit5 {
+ path: "/def/sign/board/tfm_exit_5.sii"
+}
+
+}

@@ -1,0 +1,74 @@
+SiiNunit
+{
+sign_board_template : _nameless.1e3.c57e.f6b0 {
+ board_name: "tfm-direction-right"
+ width: &4008f5c3
+ height: &3f333333
+ model_name: ""
+ items: 3
+ items[0]: _nameless.1e3.c3f6.b6e0
+ items[1]: _nameless.1e3.b3c6.3700
+ items[2]: _nameless.1e3.b3c6.1f40
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1e3.c3f6.b6e0 {
+ text: "VTC Park"
+ font_face: "/font/sign/tr_sr.font"
+ font_size: &3ec28f5c
+ text_halign: center
+ text_valign: center
+ font_color: 16777215
+ font_opacity: 1
+ line_spacing: &bd4ccccd
+ letter_spacing: &bca3d70a
+ id: 3305111550
+ area_name: ""
+ area_idx: nil
+ coords_l: &3d23d700
+ coords_r: &3fd1a2b4
+ coords_t: &3f333333
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.1e3.b3c6.3700 {
+ atlas_path: "/def/sign/atlas/arrow_small_right_tr.sii"
+ image_idx: 0
+ color: 16777215
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1667629055
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fd5b05d
+ coords_r: &400369d1
+ coords_t: &3f0ca864
+ coords_b: &3e298768
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.1e3.b3c6.1f40 {
+ atlas_path: "/def/sign/atlas/arrow_small_exit_tr.sii"
+ image_idx: 0
+ color: 16777215
+ opacity: 0
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1291321344
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fd8f221
+ coords_r: &4001c8f0
+ coords_t: &3f0624de
+ coords_b: &3e439582
+ z_order: 1
+ tag: ""
+}
+
+}

@@ -1,0 +1,26 @@
+SiiNunit
+{
+model_def : tfm.arrow {
+		model_desc: "/model/tfm_arrow/tfm_arrow.pmd"
+	}
+	
+model_def : tfm.truckersfm {
+		model_desc: "/model/tfm_truckersfm/tfm_truckersfm.pmd"
+	}
+	
+model_def : tfm.welcome {
+		model_desc: "/model/tfm_welcome/tfm_welcome.pmd"
+	}
+	
+model_def : tfm.arrform {
+		model_desc: "/model/tfm_arr_form/tfm_arr_form.pmd"
+	}
+	
+model_def : tfm.adbanner {
+		model_desc: "/model/tfm_banners/tfm_banner.pmd"
+	}
+	
+model_def : tfm.arrowp {
+		model_desc: "/model/tfm_arrow_p/tfm_arrow_p.pmd"
+	}
+}

@@ -1,0 +1,72 @@
+SiiNunit
+{
+sign_board_template : _nameless.236.1e0d.c940 {
+ board_name: "tfm q6"
+ width: &404d70a4
+ height: &400d70a4
+ model_name: ""
+ items: 3
+ items[0]: _nameless.236.1e48.86e0
+ items[1]: _nameless.236.1e48.8da0
+ items[2]: _nameless.236.1e0d.c430
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.236.1e48.86e0 {
+ text: "''That was a sick flip though, come on, MLG''"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ecccccd
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: -0
+ letter_spacing: &bc75c28f
+ id: 3260678142
+ area_name: ""
+ area_idx: nil
+ coords_l: &3d9f2f90
+ coords_r: &4047d350
+ coords_t: &3ff7eb13
+ coords_b: &3f283643
+ z_order: 3
+ tag: ""
+}
+
+sign_template_text : _nameless.236.1e48.8da0 {
+ text: "- London"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ee66666
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: -0
+ letter_spacing: &bc75c28f
+ id: 1915092991
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fc75ea4
+ coords_r: &4048b7b4
+ coords_t: &3eb127c4
+ coords_b: &3df225b4
+ z_order: 2
+ tag: ""
+}
+
+sign_template_frame : _nameless.236.1e0d.c430 {
+ frame_path: "/def/sign/frame/green_rounded_bg.sii"
+ color: 16777215
+ opacity: 1
+ id: 810156032
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &404d70a4
+ coords_t: &400d70a4
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+}

@@ -1,0 +1,772 @@
+SiiNunit
+{
+
+model_def : model.tmp_ro_c.h_fretrk_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Firetruck Type 1"
+	model_desc: "/vehicle/ai/dagger/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_fretrk_2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Firetruck Type 2"
+	model_desc: "/vehicle/ai/t815_7/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_poli_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Police Car Type 1"
+	model_desc: "/vehicle/ai/passat_cc/police_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_poli_2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Police Car Type 2"
+	model_desc: "/vehicle/ai/bmw5/police_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_poli_3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Police Car Type 3"
+	model_desc: "/vehicle/ai/passat_2014/police_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_poli_4
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Police Car Type 4"
+	model_desc: "/vehicle/ai/alfa_romeo_159/police_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_poli_5
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Police Car Type 5"
+	model_desc: "/vehicle/ai/vw_touran/police_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_ambu_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Ambulance Type 1"
+	model_desc: "/vehicle/ai/ducato/ambulance_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_ambu_2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Ambulance Type 2"
+	model_desc: "/vehicle/ai/crafter/ambulance_de_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_ambu_3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Ambulance Type 3"
+	model_desc: "/vehicle/ai/crafter/ambulance_at_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_crash_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Crashed Car Type 1"
+	model_desc: "/vehicle/ai/passat_2014/ai_crashed_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_crash_2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Crashed Car Type 2"
+	model_desc: "/vehicle/ai/event/a6_crashed/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_crash_3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Crashed Car Type 3"
+	model_desc: "/vehicle/ai/event/punto_crashed/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_crash_4
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Crashed Car Type 4"
+	model_desc: "/vehicle/ai/event/volvo_xc70_crashed/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_mvan_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 1"
+	model_desc: "/vehicle/ai/ford_transit_2016/ai_l_board_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_mvan_2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 2"
+	model_desc: "/vehicle/ai/ford_transit_2016/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_mvan_3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 3"
+	model_desc: "/vehicle/ai/transporter_t6/ai_event_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_mvan_4
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 4"
+	model_desc: "/vehicle/ai/ducato/ai_plat_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_mvan_5
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 5"
+	model_desc: "/vehicle/ai/sem_260/ai_crane_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_mvan_6
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 6"
+	model_desc: "/vehicle/ai/daily/ai/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_mvan_7
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 7"
+	model_desc: "/vehicle/ai/fox/ai_tow_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_bus_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Bus Type 1"
+	model_desc: "/vehicle/ai/opalin/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_bus_2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Bus Type 2"
+	model_desc: "/vehicle/ai/tourliner/ai/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_civ_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Car Type 1"
+	model_desc: "/vehicle/ai/clio/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_civ_2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Car Type 2"
+	model_desc: "/vehicle/ai/astra/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_civ_3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Car Type 3"
+	model_desc: "/vehicle/ai/jaguar_xf/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_flt_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Flatbed Type 1"
+	model_desc: "/vehicle/ai/event/trailer/flatbed/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_machine_1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Machine Type 1"
+	model_desc: "/vehicle/share/models/asphalt_milling_machine/lod.pmd"
+}
+
+model_def : model.tmp_ro_c.h_machine_2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Machine Type 2"
+	model_desc: "/vehicle/ai/truck/scania_2016/s_a4x2_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_machine_3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Machine Type 3"
+	model_desc: "/vehicle/ai/truck/renault_premium/a4x2_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.h_machine_4
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Machine Type 4"
+	model_desc: "/vehicle/ai/truck/man_tgx_euro6/b6x24_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.500ia
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI 500 I"
+	model_desc: "/vehicle/ai/500l/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.a31
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI A3"
+	model_desc: "/vehicle/ai/a3/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.a80
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI A80"
+	model_desc: "/vehicle/ai/a80/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.accord1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Accord"
+	model_desc: "/vehicle/ai/accord/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.aleko1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Aleko"
+	model_desc: "/vehicle/ai/aleko/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.alfa1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Alfa Romero 159"
+	model_desc: "/vehicle/ai/alfa_romeo_159/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.audi61
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Audi A6"
+	model_desc: "/vehicle/ai/audi_a6/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.audi62
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Audi A6 Police"
+	model_desc: "/vehicle/ai/audi_a6/police_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.ava46
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Ava"
+	model_desc: "/vehicle/ai/ava_469/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.ava46p
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Ava Police"
+	model_desc: "/vehicle/ai/ava_469/police_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.bge
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Bgeed"
+	model_desc: "/vehicle/ai/bgeed/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.bgep
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Bgeed Police"
+	model_desc: "/vehicle/ai/bgeed/police_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.bmwa5
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI BMW"
+	model_desc: "/vehicle/ai/bmw5/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.bomb
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Loco"
+	model_desc: "/vehicle/ai/bombardier_traxx/locomotive_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.c3ai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI C3"
+	model_desc: "/vehicle/ai/c3/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.capai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Captur"
+	model_desc: "/vehicle/ai/captur/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.capturp
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Captur Police"
+	model_desc: "/vehicle/ai/captur/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.citai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Citroen C4"
+	model_desc: "/vehicle/ai/citroen_c4/ai_lod1.pmd"
+}
+
+model_def : model.tmp_ro_c.craai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter"
+	model_desc: "/vehicle/ai/crafter/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter Police"
+	model_desc: "/vehicle/ai/crafter/police_lt_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 3"
+	model_desc: "/vehicle/ai/crafter/ambulance_sl_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai4
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 4"
+	model_desc: "/vehicle/ai/crafter/ambulance_sk_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai5
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 5"
+	model_desc: "/vehicle/ai/crafter/ambulance_ru_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai6
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 6"
+	model_desc: "/vehicle/ai/crafter/ambulance_lit_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai7
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 7"
+	model_desc: "/vehicle/ai/crafter/ambulance_lat_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai8
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 8"
+	model_desc: "/vehicle/ai/crafter/ambulance_hr_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai9
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 9"
+	model_desc: "/vehicle/ai/crafter/ambulance_fin_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai10
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 10"
+	model_desc: "/vehicle/ai/crafter/ambulance_est_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai11
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 11"
+	model_desc: "/vehicle/ai/crafter/ambulance_es_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai12
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 12"
+	model_desc: "/vehicle/ai/crafter/ambulance_cz_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai13
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 13"
+	model_desc: "/vehicle/ai/crafter/ambulance_at_lod1.pmd"
+}
+model_def : model.tmp_ro_c.craai14
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Crafter 14"
+	model_desc: "/vehicle/ai/crafter/ambulance_pt_lod1.pmd"
+}
+model_def : model.tmp_ro_c.daily2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 7"
+	model_desc: "/vehicle/ai/daily/ai/ai_box_lod1.pmd"
+}
+model_def : model.tmp_ro_c.daily3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "Maintenance Van Type 8"
+	model_desc: "/vehicle/ai/daily/ai/ai_curtain_lod1.pmd"
+}
+model_def : model.tmp_ro_c.ducai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Ducato 1"
+	model_desc: "/vehicle/ai/ducato/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.ducai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Ducato 2"
+	model_desc: "/vehicle/ai/ducato/ai_box_lod1.pmd"
+}
+model_def : model.tmp_ro_c.ducai3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Ducato 3"
+	model_desc: "/vehicle/ai/ducato/ai_chassis_lod1.pmd"
+}
+model_def : model.tmp_ro_c.duck2v
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Duck"
+	model_desc: "/vehicle/ai/ducato/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.dustai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Duster 1"
+	model_desc: "/vehicle/ai/duster/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.dustai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Duster 2"
+	model_desc: "/vehicle/ai/duster/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.econic
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Econic"
+	model_desc: "/vehicle/ai/econic/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.fabai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Fabia"
+	model_desc: "/vehicle/ai/fabia/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.focusai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI 2009 Ford Focus"
+	model_desc: "/vehicle/ai/focus_2009/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.focusa2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI 2009 Ford Focus Police"
+	model_desc: "/vehicle/ai/focus_2009/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.frdsmx
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Ford SMax"
+	model_desc: "/vehicle/ai/ford_smax/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.ypsai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI YPS"
+	model_desc: "/vehicle/ai/ypsilon/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.yrdai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Yard Truck"
+	model_desc: "/vehicle/ai/yard_truck/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.xc90
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI XC90"
+	model_desc: "/vehicle/ai/xc90/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.xc60
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI XC60"
+	model_desc: "/vehicle/ai/xc60/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.wolvai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Wolverine"
+	model_desc: "/vehicle/ai/wolverine/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.touai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI VW Touran"
+	model_desc: "/vehicle/ai/vw_touran/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.xc70ai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI XC70 1"
+	model_desc: "/vehicle/ai/volvo_xc70/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.xc70ai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI XC70 2"
+	model_desc: "/vehicle/ai/volvo_xc70/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.ulja_452
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI ULJA 452"
+	model_desc: "/vehicle/ai/ulja_452/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.foxai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Fox 1"
+	model_desc: "/vehicle/ai/fox/ai_garbage_lod1.pmd"
+}
+model_def : model.tmp_ro_c.foxai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Fox 2"
+	model_desc: "/vehicle/ai/fox/ai_tank_lod1.pmd"
+}
+model_def : model.tmp_ro_c.foxai3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Fox 3"
+	model_desc: "/vehicle/ai/fox/ai_tipper_lod1.pmd"
+}
+model_def : model.tmp_ro_c.galon1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Galon 1"
+	model_desc: "/vehicle/ai/galon/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.galon2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Galon 2"
+	model_desc: "/vehicle/ai/galon/ai_police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.galon3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Galon 3"
+	model_desc: "/vehicle/ai/galon/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.giuai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Giulietta"
+	model_desc: "/vehicle/ai/giulietta/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.golfai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Golf"
+	model_desc: "/vehicle/ai/golf/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.granai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Granta 1"
+	model_desc: "/vehicle/ai/granta/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.granai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Granta 2"
+	model_desc: "/vehicle/ai/granta/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.huracan1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Huracan 1"
+	model_desc: "/vehicle/ai/huracan/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.huracan2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Huracan 2"
+	model_desc: "/vehicle/ai/huracan/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.hymai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Hymer"
+	model_desc: "/vehicle/ai/hymer/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.jag2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Jaguar Police"
+	model_desc: "/vehicle/ai/jaguar_xf/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.kcai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Kia Ceed"
+	model_desc: "/vehicle/ai/kia_ceed/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.kccai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Kia Ceed Combi"
+	model_desc: "/vehicle/ai/kia_ceed_combi/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.kccai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Kia Ceed Combi 2"
+	model_desc: "/vehicle/ai/kia_ceed_combi/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.l119
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI I 119"
+	model_desc: "/vehicle/ai/l_119/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lagai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Laguna 1"
+	model_desc: "/vehicle/ai/laguna/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lagai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Laguna 2"
+	model_desc: "/vehicle/ai/laguna/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lanai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Lancer X"
+	model_desc: "/vehicle/ai/lancer_x/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lichai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Lich 4331"
+	model_desc: "/vehicle/ai/lich_4331/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lwcb1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Lowcab 1"
+	model_desc: "/vehicle/ai/lowcab/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lwcb2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Lowcab 2"
+	model_desc: "/vehicle/ai/lowcab/ai_box_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lwcb3
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Lowcab 3"
+	model_desc: "/vehicle/ai/lowcab/ai_dump_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lwcb4
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Lowcab 4"
+	model_desc: "/vehicle/ai/lowcab/ai_flatbed_lod1.pmd"
+}
+model_def : model.tmp_ro_c.lwcb5
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Lowcab 5"
+	model_desc: "/vehicle/ai/lowcab/ai_shutters_lod1.pmd"
+}
+model_def : model.tmp_ro_c.majai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Majestic 1"
+	model_desc: "/vehicle/ai/majestic_a_2018/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.maz3ai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Mazda 3"
+	model_desc: "/vehicle/ai/mazda_3/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.maz3ai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Mazda 3 cx"
+	model_desc: "/vehicle/ai/mazda_cx3/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.megai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Megane 1"
+	model_desc: "/vehicle/ai/megane/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.megai2
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Megane 2"
+	model_desc: "/vehicle/ai/megane/police_lod1.pmd"
+}
+model_def : model.tmp_ro_c.mercai1
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Mercedes CE 1"
+	model_desc: "/vehicle/ai/mercedes_ce/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.miniai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Mini"
+	model_desc: "/vehicle/ai/mini/ai_lod1.pmd"
+}
+model_def : model.tmp_ro_c.minibai
+{
+	category: "TruckersMP Real Operations - ETS Common Library"
+	name: "AI Minibus"
+	model_desc: "/vehicle/ai/minibus/ai/ai_lod1.pmd"
+}
+}

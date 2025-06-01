@@ -1,0 +1,19 @@
+SiiNunit
+{
+sign_template : _nameless.28e.a8d9.8c50 {
+ template_name: tfm_exit_1
+ model_name: dlc_blke_269
+ stand_model_name: ""
+ traffic_rule: null
+ boards: 1
+ boards[0]: _nameless.28e.8d79.bf40
+ items: 0
+ dynamic_attributes: 0
+}
+
+sign_template_board_binding : _nameless.28e.8d79.bf40 {
+ area_name: ml2
+ linked_board: sign_board.exit1
+}
+
+}

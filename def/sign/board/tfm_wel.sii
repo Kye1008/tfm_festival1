@@ -1,0 +1,56 @@
+SiiNunit
+{
+sign_board_template : _nameless.16c.58b9.b200 {
+ board_name: "tfm wel"
+ width: &404d70a4
+ height: &400d70a4
+ model_name: ""
+ items: 2
+ items[0]: _nameless.16d.1032.a8f0
+ items[1]: _nameless.16d.1032.b730
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.16d.1032.a8f0 {
+ text: "Welcome To"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ee66666
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 927203328
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &404ca085
+ coords_t: &400d70a4
+ coords_b: &3f8a15b8
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.16d.1032.b730 {
+ text: "TruckersFM<br>8"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ee66666
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 1626603519
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &404ca085
+ coords_t: &3fc1f07c
+ coords_b: 0
+ z_order: 2
+ tag: ""
+}
+
+}

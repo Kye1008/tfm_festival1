@@ -1,0 +1,54 @@
+SiiNunit
+{
+sign_board_template : _nameless.1f8.4ba2.6cd0 {
+ board_name: "tfm one way"
+ width: &4051eb85
+ height: &3f9c28f6
+ model_name: ""
+ items: 2
+ items[0]: _nameless.1f9.2576.9610
+ items[1]: _nameless.1f8.47f7.2e70
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1f9.2576.9610 {
+ text: "One Way"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3f19999a
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &bdcccccd
+ letter_spacing: 0
+ id: 2876112894
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f658cc0
+ coords_r: &4051eb85
+ coords_t: &3f9c28f6
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1f8.47f7.2e70 {
+ atlas_path: "/def/sign/atlas/arrow_med_up_bg.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2430730239
+ area_name: ""
+ area_idx: nil
+ coords_l: &3ebc1a74
+ coords_r: &3f3f3b84
+ coords_t: &3f81d48c
+ coords_b: &3e829908
+ z_order: 2
+ tag: ""
+}
+
+}

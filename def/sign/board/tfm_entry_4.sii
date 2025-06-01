@@ -1,0 +1,158 @@
+SiiNunit
+{
+sign_board_template : _nameless.2c6.0f6f.0480 {
+ board_name: "tfm entry 4"
+ width: &404d70a4
+ height: &400d70a4
+ model_name: ""
+ items: 7
+ items[0]: _nameless.2c6.0fd3.4830
+ items[1]: _nameless.2c6.10bb.ed60
+ items[2]: _nameless.2c6.10bb.fda0
+ items[3]: _nameless.2c6.10bb.f300
+ items[4]: _nameless.2c6.0fd3.48f0
+ items[5]: _nameless.2c6.10bb.f620
+ items[6]: _nameless.2c6.0fd3.4d70
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.2c6.0fd3.4830 {
+ text: Exit
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: -0
+ letter_spacing: 0
+ id: 3260678142
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f450337
+ coords_r: &404d70a4
+ coords_t: &3f9d3b81
+ coords_b: &3f37b282
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.2c6.10bb.ed60 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2733506559
+ area_name: ""
+ area_idx: nil
+ coords_l: &3cdcbe00
+ coords_r: &404b4e2e
+ coords_t: &3f2e02c5
+ coords_b: &3f14692b
+ z_order: 2
+ tag: ""
+}
+
+sign_template_image : _nameless.2c6.10bb.fda0 {
+ atlas_path: "/def/sign/atlas/arrow_short_up_bg.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1044119552
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e6e10e4
+ coords_r: &3f179722
+ coords_t: &3f9bd14b
+ coords_b: &3f3be92e
+ z_order: 3
+ tag: ""
+}
+
+sign_template_image : _nameless.2c6.10bb.f300 {
+ atlas_path: "/def/sign/atlas/arrow_short_right_bg.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 2134114303
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e25b92e
+ coords_r: &3f2527b5
+ coords_t: &3eff17e8
+ coords_b: &3e0de428
+ z_order: 4
+ tag: ""
+}
+
+sign_template_text : _nameless.2c6.0fd3.48f0 {
+ text: "Trameri Challenge<br>Race Track"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3e99999a
+ text_halign: left
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 977666048
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f450337
+ coords_r: &404b4e2e
+ coords_t: &3f11d0f3
+ coords_b: &3da1e714
+ z_order: 5
+ tag: ""
+}
+
+sign_template_image : _nameless.2c6.10bb.f620 {
+ atlas_path: "/def/sign/atlas/arrow_tail_hor_bg.sii"
+ image_idx: 0
+ color: 16777215
+ opacity: 1
+ hflip: false
+ vflip: false
+ image_overridable: false
+ id: 1112670208
+ area_name: ""
+ area_idx: nil
+ coords_l: &3cf83680
+ coords_r: &404b851f
+ coords_t: &3fad7dec
+ coords_b: &3fa0b11f
+ z_order: 6
+ tag: ""
+}
+
+sign_template_text : _nameless.2c6.0fd3.4d70 {
+ text: "TruckersFM<br>8"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ee66666
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 927203328
+ area_name: ""
+ area_idx: nil
+ coords_l: 0
+ coords_r: &404ca085
+ coords_t: &400d70a4
+ coords_b: &3fa5b547
+ z_order: 7
+ tag: ""
+}
+
+}

@@ -1,0 +1,54 @@
+SiiNunit
+{
+sign_board_template : _nameless.1cb.9ae0.a500 {
+ board_name: "tfm 8"
+ width: &4051eb85
+ height: &3f9c28f6
+ model_name: ""
+ items: 2
+ items[0]: _nameless.1cb.8e38.ec80
+ items[1]: _nameless.1ca.a7a2.eef0
+ dynamic_attributes: 0
+}
+
+sign_template_text : _nameless.1cb.8e38.ec80 {
+ text: "TruckersFM 8"
+ font_face: "/font/sign/blk_n.font"
+ font_size: &3ef5c28f
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: &bdcccccd
+ letter_spacing: 0
+ id: 2876112894
+ area_name: ""
+ area_idx: nil
+ coords_l: &3f0dc10e
+ coords_r: &404f561e
+ coords_t: &3f9c28f6
+ coords_b: 0
+ z_order: 1
+ tag: ""
+}
+
+sign_template_image : _nameless.1ca.a7a2.eef0 {
+ atlas_path: "/def/sign/atlas/arrow_short_right_bg.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: true
+ vflip: false
+ image_overridable: false
+ id: 2430730239
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e8188f9
+ coords_r: &3f21f2c6
+ coords_t: &3f4c7523
+ coords_b: &3ed68db2
+ z_order: 2
+ tag: ""
+}
+
+}

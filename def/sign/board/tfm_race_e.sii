@@ -1,0 +1,54 @@
+SiiNunit
+{
+sign_board_template : _nameless.20b.2632.5470 {
+ board_name: "tfm race e"
+ width: &4099999a
+ height: &40466666
+ model_name: ""
+ items: 2
+ items[0]: _nameless.20b.2639.5370
+ items[1]: _nameless.20b.2671.e160
+ dynamic_attributes: 0
+}
+
+sign_template_image : _nameless.20b.2639.5370 {
+ atlas_path: "/def/sign/atlas/arrow_exit_de.sii"
+ image_idx: 0
+ color: nil
+ opacity: 1
+ hflip: true
+ vflip: true
+ image_overridable: false
+ id: 2678980607
+ area_name: ""
+ area_idx: nil
+ coords_l: &3e4ccccc
+ coords_r: &3f99999a
+ coords_t: &3ffc8253
+ coords_b: &3f7904a4
+ z_order: 1
+ tag: ""
+}
+
+sign_template_text : _nameless.20b.2671.e160 {
+ text: "EXIT HERE"
+ font_face: "/font/sign/de_n.font"
+ font_size: &3f333333
+ text_halign: center
+ text_valign: center
+ font_color: nil
+ font_opacity: 1
+ line_spacing: 0
+ letter_spacing: 0
+ id: 1040056320
+ area_name: ""
+ area_idx: nil
+ coords_l: &3fb20950
+ coords_r: &4099999a
+ coords_t: &40466666
+ coords_b: &3c14f200
+ z_order: 2
+ tag: ""
+}
+
+}
