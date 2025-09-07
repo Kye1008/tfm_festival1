@@ -1,0 +1,28 @@
+SiiNunit
+{
+sign_model : sign.tfm_benbin
+	{
+		sign_name: "TFM Benbin"
+
+		model_desc: "/model/clutter/street/bin/benbin/collision/tfm_benbin_collisions.pmd"
+		model_coll: "/model/clutter/street/bin/benbin/collision/tfm_benbin_collisions.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 50
+	}
+	
+	sign_model : sign.tfm_football
+	{
+		sign_name: "TFM Football"
+
+		model_desc: "/model/misc/football/ball/fivemeter/tfm_football_collisions.pmd"
+		model_coll: "/model/misc/football/ball/fivemeter/tfm_football_collisions.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 05
+	}
+
+
+}

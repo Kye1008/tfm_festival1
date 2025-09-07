@@ -1,0 +1,150 @@
+SiiNunit
+{
+# For modders: Please do not modify this file if you want to add a new entry. Create in
+# this directory a new file "<base_name>.<idofyourmod>.sii" where <base_name> is name of
+# base file without the extension (e.g. "city" for "/def/city.sii") and <idofyourmod> is
+# some string which is unlikely to conflict with other mod.
+#
+# Warning: Even if the units are specified in more than one source file, they share the
+# same namespace so suffixes or prefixes should be used to avoid conflicts.
+# reserved numbers: 364-367,369,370-436,438,439-443,446-449,452
+
+
+prefab_model : prefab.mod_ger_109
+{
+	name: "tfm lh_ger_hw2_fork_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2_fork_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2_fork_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_111
+{
+	name: "tfm ger_hw2_exit_double"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2_exit_double.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2_exit_double.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_114
+{
+	name: "tfm ger_tfm_hw2_exit_double_mirrored"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2_exit_double_mirrored.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2_exit_double_mirrored.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_112
+{
+	name: "tfm ger_hw2-hw2_exit_mirrored_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2-hw2_exit_mirrored_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2-hw2_exit_mirrored_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_113
+{
+	name: "tfm ger_hw2-hw2_exit_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2-hw2_exit_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2-hw2_exit_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_110
+{
+	name: "tfm ger_hw2_fork_narrow_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2_fork_narrow_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_hw2_fork_narrow_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_115
+{
+	name: "tfm ger_hw3_fork_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_hw3_fork_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_hw3_fork_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_116
+{
+	name: "tfm ger_sholder_fork_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_sholder_fork_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_sholder_fork_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_117
+{
+	name: "tfm ger_sholder_fork_m_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_sholder_fork_m_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_sholder_fork_m_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_118
+{
+	name: "tfm ger_fork_r2_x_r1_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_fork_r2_x_r1_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_fork_r2_x_r1_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_119
+{
+	name: "tfm ger_r2_r3_merge_mirrored_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_r2_r3_merge_mirrored_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_r2_r3_merge_mirrored_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_120
+{
+	name: "tfm ger_r2_r3_merge_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_r2_r3_merge_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_r2_r3_merge_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_121
+{
+	name: "tfm ger_r3_split_to_r2_and_r2_v02"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_r3_split_to_r2_and_r2_v02.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_r3_split_to_r2_and_r2_v02.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_122
+{
+	name: "tfm ger_r3_splitup_to_r2_and_r2_v02"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_r3_splitup_to_r2_and_r2_v02.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_r3_splitup_to_r2_and_r2_v02.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_123
+{
+	name: "tfm ger_r2_one_way_left_exit"
+	model_desc: "/prefab2/cross_temp/ger/ger_tfm_r2_one_way_left_exit.pmd"
+	prefab_desc: "/prefab2/cross_temp/ger/ger_tfm_r2_one_way_left_exit.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_124
+{
+	name: "tfm ger_r2_one_way_left_enter"
+	model_desc: "/prefab2/cross_temp/ger/ger_tfm_r2_one_way_left_enter.pmd"
+	prefab_desc: "/prefab2/cross_temp/ger/ger_tfm_r2_one_way_left_enter.ppd"
+	category: "mod_germany/fork/"
+}
+
+prefab_model : prefab.mod_ger_125
+{
+	name: "tfm ger_road1_split_no_exit_tmpl"
+	model_desc: "/prefab2/fork_temp/ger/ger_tfm_road1_split_no_exit_tmpl.pmd"
+	prefab_desc: "/prefab2/fork_temp/ger/ger_tfm_road1_split_no_exit_tmpl.ppd"
+	category: "mod_germany/fork/"
+}
+
+
+}

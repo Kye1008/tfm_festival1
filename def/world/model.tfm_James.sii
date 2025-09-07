@@ -1,0 +1,47 @@
+SiiNunit
+{
+model_def : tfm_benbin  {
+		name: "TFM_BenBin_Static"
+		model_desc: "/model/clutter/street/bin/benbin/static/tfm_benbin_static.pmd"
+	}
+	
+model_def : tfm.TFM.Billboard.July_1 {
+		name: "TFM_Billboard_July_1"
+		model_desc: "/model/clutter/street/billboard/tall/illuminated/pole/double/tfm_billboard1.pmd"
+	}
+	
+model_def : tfm.RR250 {
+		name: "TFM_Rail_Road_Cutting_Bridge_250"
+		model_desc: "/model/bridge/rail/roadcutting/250ramp/Rail_Road_Cutting_Bridge_250.pmd"
+	}
+	
+model_def : tfm.trailad {
+		name: "TFM_Trailer_Ad"
+		model_desc: "/model/misc/advert/trailer/vtcpark/trailerad.pmd"
+	}
+	
+model_def : tfm.graf1 {
+		name: "TFM_Graffiti_1"
+		model_desc: "/model/misc/graffiti/various/Graffiti1.pmd"
+	}
+	
+model_def : tfm.graf2 {
+		name: "TFM_Graffiti_2"
+		model_desc: "/model/misc/graffiti/various/Graffiti2.pmd"
+	}
+	
+model_def : tfm.stname_board {
+		name: "TFM_Station_Name_Board"
+		model_desc: "/model/clutter/trainstation/signage/platform/nameboards/reg/tfm_nameboard.pmd"
+	}
+	
+model_def : tfm.stflag_board {
+		name: "TFM_Station_Flag_Board"
+		model_desc: "/model/clutter/trainstation/signage/flagpole/reg/tfm_flagboard.pmd"
+	}
+	
+model_def : tfm.pitchcoll {
+		name: "TFM_Pitch_Collisions"
+		model_desc: "/model/misc/football/pitch/fa2p5/tfm_pitch_collisions.pmd"
+	}
+}
