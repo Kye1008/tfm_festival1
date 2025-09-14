@@ -23,6 +23,102 @@ sign_model : sign.tfm_benbin
 		dynamic: true
 		mass: 05
 	}
+	
+	sign_model : sign.tfm_ldisign1
+	{
+		sign_name: "TFM Large Direction Sign 1"
+
+		model_desc: "/model/sign/road/direction/arrow/large/tfm_l_disign1.pmd"
+		model_coll: "/model/sign/road/direction/arrow/large/tfm_l_disign1.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_ldisign2
+	{
+		sign_name: "TFM Large Direction Sign 2"
+
+		model_desc: "/model/sign/road/direction/arrow/large/tfm_l_disign2.pmd"
+		model_coll: "/model/sign/road/direction/arrow/large/tfm_l_disign2.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+
+sign_model : sign.tfm_ldisign3
+	{
+		sign_name: "TFM Large Direction Sign 3"
+
+		model_desc: "/model/sign/road/direction/arrow/large/tfm_l_disign3.pmd"
+		model_coll: "/model/sign/road/direction/arrow/large/tfm_l_disign3.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_ldisign4
+	{
+		sign_name: "TFM Large Direction Sign 4"
+
+		model_desc: "/model/sign/road/direction/arrow/large/tfm_l_disign4.pmd"
+		model_coll: "/model/sign/road/direction/arrow/large/tfm_l_disign4.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+
+	sign_model : sign.tfm_ldisigr1
+	{
+		sign_name: "TFM Large Direction Sign Right 1"
+
+		model_desc: "/model/sign/road/direction/arrow/large/tfm_l_rdisign1.pmd"
+		model_coll: "/model/sign/road/direction/arrow/large/tfm_l_rdisign1.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_ldisigr2
+	{
+		sign_name: "TFM Large Direction Sign Right 2"
+
+		model_desc: "/model/sign/road/direction/arrow/large/tfm_l_rdisign2.pmd"
+		model_coll: "/model/sign/road/direction/arrow/large/tfm_l_rdisign2.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_ldisigr3
+	{
+		sign_name: "TFM Large Direction Sign Right 3"
+
+		model_desc: "/model/sign/road/direction/arrow/large/tfm_l_rdisign3.pmd"
+		model_coll: "/model/sign/road/direction/arrow/large/tfm_l_rdisign3.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_ldisigr4
+	{
+		sign_name: "TFM Large Direction Sign Right 4"
+
+		model_desc: "/model/sign/road/direction/arrow/large/tfm_l_rdisign4.pmd"
+		model_coll: "/model/sign/road/direction/arrow/large/tfm_l_rdisign4.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
 
 
 }
