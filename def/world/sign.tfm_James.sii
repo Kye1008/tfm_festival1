@@ -119,6 +119,197 @@ sign_model : sign.tfm_ldisign3
 		dynamic: true
 		mass: 80
 	}
+	
+	sign_model : sign.tfm_mdir1
+	{
+		sign_name: "TFM Multi Direction Sign 1"
+
+		model_desc: "/model/sign/road/direction/points/large/tfm_multidirection1.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_mdir2
+	{
+		sign_name: "TFM Multi Direction Sign 2"
+
+		model_desc: "/model/sign/road/direction/points/large/tfm_multidirection2.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+
+	sign_model : sign.tfm_rblong1
+	{
+		sign_name: "TFM Roundabout Long Sign 1"
+
+		model_desc: "/model/sign/road/a-road/roundabout/long/tfm_roundaboutlong1.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+		sign_model : sign.tfm_rblong2
+	{
+		sign_name: "TFM Roundabout Long Sign 2"
+
+		model_desc: "/model/sign/road/a-road/roundabout/long/tfm_roundaboutlong2.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_rbwide1
+	{
+		sign_name: "TFM Roundabout Wide Sign 1"
+
+		model_desc: "/model/sign/road/a-road/roundabout/wide/tfm_roundaboutwide1.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_rbwide2
+	{
+		sign_name: "TFM Roundabout Wide Sign 2"
+
+		model_desc: "/model/sign/road/a-road/roundabout/wide/tfm_roundaboutwide2.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_rb1801
+	{
+		sign_name: "TFM Roundabout 180 1"
+
+		model_desc: "/model/sign/road/direction/roundabout/180deg/tfm_roundabout_1801.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_rb1802
+	{
+		sign_name: "TFM Roundabout 180 2"
+
+		model_desc: "/model/sign/road/direction/roundabout/180deg/tfm_roundabout_1802.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_rb4w1
+	{
+		sign_name: "TFM Roundabout 4 Way 1"
+
+		model_desc: "/model/sign/road/direction/roundabout/4way/tfm_roundabout_4_way1.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_rb4w2
+	{
+		sign_name: "TFM Roundabout 4 Way 2"
+
+		model_desc: "/model/sign/road/direction/roundabout/4way/tfm_roundabout_4_way2.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+
+	sign_model : sign.tfm_rb3w1
+	{
+		sign_name: "TFM Roundabout 3 Way 1"
+
+		model_desc: "/model/sign/road/direction/roundabout/3way/tfm_roundabout_3_way1.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_rb3ws
+	{
+		sign_name: "TFM Roundabout 3 Way Smaller"
+
+		model_desc: "/model/sign/road/direction/roundabout/3waysmaller/tfm_roundabout_3_way_smaller.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_rb3w2
+	{
+		sign_name: "TFM Roundabout 3 Way 2"
+
+		model_desc: "/model/sign/road/direction/roundabout/3way/tfm_roundabout_3_way2.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_yardpost
+	{
+		sign_name: "TFM Yardpost"
+
+		model_desc: "/model/sign/road/a-road/yardposts/board/tfm_yardpost.pmd"
+		model_coll: "/model/sign/road/a-road/yardposts/board/tfm_yardpost.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 50
+	}
+	
+	sign_model : sign.tfm_oousign
+	{
+		sign_name: "TFM Out of Use Sign"
+
+		model_desc: "/model/sign/road/other/oou/red/tfm_oousign.pmd"
+		model_coll: "/model/sign/road/other/oou/red/tfm_oousign.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 40
+	}
+	
+		sign_model : sign.tfm_exsign1
+	{
+		sign_name: "TFM Exit Sign 1"
+
+		model_desc: "/model/sign/road/a-road/junction/exit/split/regexit/TFM_ExitSign1.pmd"
+		model_coll: "/model/sign/road/a-road/junction/exit/split/regexit/TFM_ExitSign1.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
+	
+	sign_model : sign.tfm_exsign2
+	{
+		sign_name: "TFM Exit Sign 2"
+
+		model_desc: "/model/sign/road/a-road/junction/exit/split/regexit/TFM_ExitSign2.pmd"
+		model_coll: "/model/sign/road/a-road/junction/exit/split/regexit/TFM_ExitSign2.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
 
 
 }
