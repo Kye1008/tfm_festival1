@@ -1,0 +1,7 @@
+effect : "eut2.reflective.rfx" {
+	texture : "texture_base" {
+		source : "/model/sign/road/direction/roundabout/180deg/textures/1.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+}
