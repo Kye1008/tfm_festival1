@@ -1,0 +1,11 @@
+effect : "eut2.sign.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	shininess : 4.000000
+	specular : { 0.000000 , 0.000000 , 0.000000 }
+	texture : "texture_base" {
+		source : "/model/sign/road/bollard/direction/reflective/triangle/textures/NoEntry.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+}

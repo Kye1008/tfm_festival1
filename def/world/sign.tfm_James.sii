@@ -310,6 +310,66 @@ sign_model : sign.tfm_ldisign3
 		dynamic: true
 		mass: 80
 	}
+	
+	sign_model : sign.tfm_tiboll
+	{
+		sign_name: "TFM Traffic Island Bollard"
+
+		model_desc: "/model/sign/road/bollard/direction/reflective/triangle/tfm_trafficislandbollard.pmd"
+		model_coll: "/model/sign/road/bollard/direction/reflective/triangle/tfm_trafficislandbollard.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 60
+	}
+
+	sign_model : sign.tfm_rads1
+	{
+		sign_name: "TFM Roundabout Advert Small 1"
+
+		model_desc: "/model/sign/billboard/roundabout/sponsors/small/tfmshows/tfm_roundaboutad1.pmd"
+		model_coll: "/model/sign/billboard/roundabout/sponsors/small/tfmshows/tfm_roundaboutad1.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 40
+	}
+
+	sign_model : sign.tfm_rads2
+	{
+		sign_name: "TFM Roundabout Advert Small 2"
+
+		model_desc: "/model/sign/billboard/roundabout/sponsors/small/tfmshows/tfm_roundaboutad2.pmd"
+		model_coll: "/model/sign/billboard/roundabout/sponsors/small/tfmshows/tfm_roundaboutad2.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 40
+	}
+
+	sign_model : sign.tfm_rads3
+	{
+		sign_name: "TFM Roundabout Advert Small 3"
+
+		model_desc: "/model/sign/billboard/roundabout/sponsors/small/tfmshows/tfm_roundaboutad3.pmd"
+		model_coll: "/model/sign/billboard/roundabout/sponsors/small/tfmshows/tfm_roundaboutad3.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 40
+	}
+
+	sign_model : sign.tfm_rads4
+	{
+		sign_name: "TFM Roundabout Advert Small 4"
+
+		model_desc: "/model/sign/billboard/roundabout/sponsors/small/tfmshows/tfm_roundaboutad4.pmd"
+		model_coll: "/model/sign/billboard/roundabout/sponsors/small/tfmshows/tfm_roundaboutad4.pmc"
+		category: "TFM"
+
+		dynamic: true
+		mass: 40
+	}
 
 
 }
