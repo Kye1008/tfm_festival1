@@ -40,8 +40,4 @@ model_def : tfm.stflag_board {
 		model_desc: "/model/clutter/trainstation/signage/flagpole/reg/tfm_flagboard.pmd"
 	}
 	
-model_def : tfm.mem_lane {
-		name: "TFM_Memory_Lane"
-		model_desc: "/model/sign/billboard/tfm10/memorylane/tfmmemlane.pmd"
-	}
 }

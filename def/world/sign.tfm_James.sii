@@ -370,6 +370,17 @@ sign_model : sign.tfm_ldisign3
 		dynamic: true
 		mass: 40
 	}
+	
+	sign_model : sign.tfm_memlane
+	{
+		sign_name: "TFM Memory Lane"
+
+		model_desc: "/model/sign/billboard/tfm10/memorylane/tfmmemlane.pmd"
+		category: "TFM"
+
+		dynamic: true
+		mass: 80
+	}
 
 
 }
