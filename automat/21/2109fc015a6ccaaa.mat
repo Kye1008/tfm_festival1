@@ -1,0 +1,16 @@
+effect : "eut2.lamp.rfx" {
+	additional_ambient : 1.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	shininess : 90.000000
+	specular : { 0.000000 , 0.000000 , 0.000000 }
+	texture : "texture_base" {
+		source : "/model/misc/stringlights/20m/tfm/textures/Colours.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+	texture : "texture_mask" {
+		source : "/model/misc/stringlights/20m/tfm/textures/Colours.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+}

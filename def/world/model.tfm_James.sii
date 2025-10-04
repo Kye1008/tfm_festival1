@@ -40,4 +40,9 @@ model_def : tfm.stflag_board {
 		model_desc: "/model/clutter/trainstation/signage/flagpole/reg/tfm_flagboard.pmd"
 	}
 	
+	model_def : tfm.sl20m {
+		name: "TFM String Lights 20m"
+		model_desc: "/model/misc/stringlights/20m/tfm/tfm_lightstring20m.pmd"
+	}
+	
 }
